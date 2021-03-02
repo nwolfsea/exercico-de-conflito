@@ -35,5 +35,9 @@ public class Apresentacao {
         System.out.println("Oi meu nome é Íris");
     }
 
+    public static void apresentaRodrigo() {
+        System.out.println("Oi meu nome e Rodrigo!");
+    }
+
 }
 
