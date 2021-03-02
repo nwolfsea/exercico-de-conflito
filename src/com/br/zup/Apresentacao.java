@@ -24,4 +24,8 @@ public class Apresentacao {
         System.out.println("Oi, meu nome é Thiago");
     }
 
+    public static void apresentaNatalia() {
+        System.out.println("Oi, meu nome é Natália");
+    }
+
 }
