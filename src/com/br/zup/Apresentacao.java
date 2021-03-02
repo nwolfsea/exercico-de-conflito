@@ -27,13 +27,12 @@ public class Apresentacao {
         System.out.println("Oi, meu nome é Natália");
     }
 
-<<<<<<< HEAD
-    public static void apresentaNatalia(){
+    public static void apresentaNatalia() {
         System.out.println("Oi meu nome é Natália");
-=======
+    }
+
     public static void apresentaIris(){
         System.out.println("Oi meu nome é Íris");
->>>>>>> 7bbc246 (Adicionar apresentação Iris)
     }
 
 }
