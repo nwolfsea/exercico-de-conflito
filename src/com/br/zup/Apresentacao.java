@@ -15,7 +15,6 @@ public class Apresentacao {
         System.out.println("Oi meu nome é Íris");
     }
 
-
     public static void apresentaRodrigo() {
         System.out.println("Oi meu nome e Rodrigo!");
     }
@@ -28,4 +27,8 @@ public class Apresentacao {
         System.out.println("Oi, meu nome é Natália");
     }
 
+    public static void apresentaNatalia(){
+        System.out.println("Oi meu nome é Natália");
+    }
 }
+
